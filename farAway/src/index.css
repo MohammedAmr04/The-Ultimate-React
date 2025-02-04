@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&family=Quicksand:wght@500;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+h1 {
+  background-color: #f4a226;
+  font-family: "Monoton";
+  font-size: 5rem;
+  margin: 0;
+}
+form {
+  background-color: #e5771f;
+}
+input:focus,
+select:focus {
+  border: none;
+  outline: 0;
+}
+form input,
+form button,
+form select {
+  background-color: #ffebb3;
+  color: #5a3e2b;
+}
+.list {
+  background-color: #5a3e2b;
+  color: #ffebb3;
+}
+ul {
+  list-style: none;
+}
+.check-box {
+  width: 20px;
+
+  height: 20px;
+}
+.actions button,
+.list select {
+  text-transform: uppercase;
+  padding: 0.8rem 2.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0.8rem;
+}
+
+.stats {
+  background-color: #76c7ad;
+  text-align: center;
+  font-weight: 700;
+  padding: 3.2rem 0;
+}
