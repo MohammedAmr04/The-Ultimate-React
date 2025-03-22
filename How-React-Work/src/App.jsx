@@ -71,7 +71,7 @@ export default function App() {
           );
         })}
       </div>
-      <ContentText activeTab={activeTab} key={activeTab} />
+      <ContentText key={content[activeTab - 1].id} activeTab={activeTab} />
     </div>
   );
 }
