@@ -7,6 +7,7 @@ export default function App() {
     handleClick();
     countRef.current = countRef.current + 1;
   };
+  
   return (
     <div>
       <button onClick={handle}>Get my position</button>
