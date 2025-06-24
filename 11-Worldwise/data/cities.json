@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "a2b4",
+      "cityName": "Valladolid",
+      "country": "Spain",
+      "date": "2025-06-19T20:52:04.507Z",
+      "notes": "this is great",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "41.62855646129421",
+        "lng": "-4.712403745361058"
+      }
+    },
+    {
+      "id": "8c26",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "date": "2025-06-05T20:52:37.000Z",
+      "notes": "",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "38.70722068650592",
+        "lng": "-9.139571070518514"
+      }
+    },
+    {
+      "id": "1877",
+      "cityName": "Douz",
+      "country": "Tunisia",
+      "date": "2025-06-19T20:53:16.559Z",
+      "notes": "",
+      "emoji": "🇹🇳",
+      "position": {
+        "lat": "32.69903593993421",
+        "lng": "9.353574569197583"
+      }
+    },
+    {
+      "id": "9b7c",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "2025-06-19T20:53:45.327Z",
+      "notes": "",
+      "emoji": "🇪🇬",
+      "position": {
+        "lat": "29.99338144970545",
+        "lng": "31.2791982332955"
+      }
+    }
+  ]
+}
